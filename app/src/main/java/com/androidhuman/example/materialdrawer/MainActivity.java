@@ -23,7 +23,7 @@ import com.androidhuman.example.materialdrawer.main_fragment_folder.ForuDirectio
 
 public class MainActivity extends ActionBarActivity {
 /*
-* 명식 충돌
+* 명식 충돌 1100
 *
 * */
     Toolbar toolbar;
