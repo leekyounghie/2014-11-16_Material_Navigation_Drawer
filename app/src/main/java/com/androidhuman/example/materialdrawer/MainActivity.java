@@ -22,7 +22,10 @@ import com.androidhuman.example.materialdrawer.main_fragment_folder.ForuDirectio
 
 
 public class MainActivity extends ActionBarActivity {
-
+/*
+* 명식 브런치
+*
+* */
     Toolbar toolbar;
     /**
      * 좌측 숨겨진 메뉴와 메인화면을 담는 Layoiut
