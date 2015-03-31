@@ -24,6 +24,13 @@ import com.androidhuman.example.materialdrawer.main_fragment_folder.ForuDirectio
 public class MainActivity extends ActionBarActivity {
     /**
      * 아래 내용은 XML파일을 인플레이션한 내용
+     *
+     *
+     * 래 내용은 XML파일을 인플레이션한 내용
+     *
+     * 래 내용은 XML파일을 인플레이션한 내용
+     * 래 내용은 XML파일을 인플레이션한 내용
+     *
      */
     Toolbar toolbar;
     /**
