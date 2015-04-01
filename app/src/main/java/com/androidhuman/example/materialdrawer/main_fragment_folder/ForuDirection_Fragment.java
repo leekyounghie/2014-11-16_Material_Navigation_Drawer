@@ -47,7 +47,7 @@ public class ForuDirection_Fragment extends Fragment {
         private final int[] COLORS = {
                 0xaa0000ff, 0xaa0000ff, 0xaaff0000, 0xaaff0000, 0xaa00ff00
         };
-        private final int[] PACKED_OFFSETS = { //페이지 이동 계산 수 2개씩 짤라서 (x,y)좌표값
+        private final int[] PACKED_OFFSETS = { //페이지 이동 계산 수 2개씩 짤라서 (x,y)좌표값 나중에 모임때 설명예정
                 -1, 0, 1, 0, 0, -1, 0, 1, 0, 0
         };
         String TAG = "FourDirectionLayout";
@@ -64,11 +64,28 @@ public class ForuDirection_Fragment extends Fragment {
                 int DURATION = 500;//페이지 전환 시간
                 // check if horizontal/vertical fling
                 if (Math.abs(velocityX) > Math.abs(velocityY)) {
+/*
+                    Math.abs(velocityX) > Math.abs(velocityY) 여기 글에보면 if문에 보면 x축과 y축을 절대값으료 비교하는 값이 있는데
+                    velocity 값은 터치 가속도를 의미하는 값으로 y 가속도보다  x 가속도가 크면 실행한다는 의미로 여기 지역if 맨밑에
+                    mScroller.startScroll(sx, sy, distance, 0, DURATION); 이것을 실행해서 x축(horizontal pager)가 작동하게함
+
+*/
 
 
-                    if (sx == 0 && velocityX > 0 || sy != 0 && (Math.abs(velocityX) > Math.abs(velocityY))) {
-                        Log.d(TAG, "sy :" + sy + "velocityX * sx : " + velocityX);
-                        return false;
+                    if (/*1번 수식*/sx == 0 && velocityX > 0 ||/*2번 수식*/ sy != 0 && (Math.abs(velocityX) > Math.abs(velocityY))) {
+                        //Log.d(TAG, "sy :" + sy + "velocityX * sx : " + velocityX);
+                        return false; /*부정 리턴값으로 이게 페이지를 더이상 못넘기게 하는 값임
+                         sx == 0 && velocityX
+                        sx,sy 는 일종의 좌표값으로 sx=0 라는 것은 맨첫페이지를 뜻하며 여기서  velocityX > 0 일때 부정을 리턴 해준다는 의미는
+                        맨 첫페이지가 1페이지라라고 하면 왼쪽의 화면(0페이지)로 못하게 하는 값
+
+                        sy != 0 && (Math.abs(velocityX) > Math.abs(velocityY))
+
+                        이건 vertical 뷰페이져에서 horizental작동하지 못하도록 하는 수식임
+
+
+                        이해가 되지 않을 경우 저 수식을 하나씩 지워보는것도 좋음
+                        */
                     }
 //                DURATION = (int) (1000 * w / Math.abs(velocityX));
                     int distance = velocityX < 0 ? w : -w;
@@ -79,11 +96,20 @@ public class ForuDirection_Fragment extends Fragment {
 
                     mScroller.startScroll(sx, sy, distance, 0, DURATION); //값이라 가로
                 } else {
-                    if (sy == 0 && velocityY > 0 || sy != 0 && velocityY < 0) {
+                    if (/*1번 수식*/sy == 0 && velocityY > 0 ||/*2.번 수식*/ sy != 0 && velocityY < 0) {
 
                         //Log.d(TAG, "sx :" + sx + "velocityY * sy : " + sy);
 
                         return false;
+
+                        /*
+                        * sy == 0 && velocityY > 0 첫페이지 버티칼에서 에서 (윗페이지 를 못뜨게 하는 수식)
+                        *
+                        * sy != 0 && velocityY < 0 이것또한 verticald에서 horizental로 못넘어가게하는 수식
+                        * 즉 첫페이지에서만 버티칼 호리젠탈만 되도록 하는 수식임 맘에 안들면 삭제해도됨
+                        *
+                        *  이해 안가면 수식을 삭제하보고 적용해보시도록
+                        * */
                     }
 //                DURATION = (int) (1000 * h / Math.abs(velocityY));
                     Log.d(TAG, "X : " + Math.abs(velocityX) + "Y : " + Math.abs(velocityY));
