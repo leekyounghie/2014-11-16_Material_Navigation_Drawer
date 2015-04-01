@@ -63,7 +63,7 @@ public class ForuDirection_Fragment extends Fragment {
                 int h = getHeight();
                 int DURATION = 500;//페이지 전환 시간
                 // check if horizontal/vertical fling
-                if (Math.abs(velocityX) > Math.abs(velocityY)) {
+                if (Math.abs(velocityX) > Math.abs(velocityY)) {//horizental viewpager
 /*
                     Math.abs(velocityX) > Math.abs(velocityY) 여기 글에보면 if문에 보면 x축과 y축을 절대값으료 비교하는 값이 있는데
                     velocity 값은 터치 가속도를 의미하는 값으로 y 가속도보다  x 가속도가 크면 실행한다는 의미로 여기 지역if 맨밑에
@@ -72,7 +72,7 @@ public class ForuDirection_Fragment extends Fragment {
 */
 
 
-                    if (/*1번 수식*/sx == 0 && velocityX > 0 ||/*2번 수식*/ sy != 0 && (Math.abs(velocityX) > Math.abs(velocityY))) {
+                    if (/*1번 수식*/sx == 0 && velocityX > 0 ||/*2번 */ sy != 0 && (Math.abs(velocityX) > Math.abs(velocityY))) {
                         //Log.d(TAG, "sy :" + sy + "velocityX * sx : " + velocityX);
                         return false; /*부정 리턴값으로 이게 페이지를 더이상 못넘기게 하는 값임
                          sx == 0 && velocityX
@@ -95,7 +95,7 @@ public class ForuDirection_Fragment extends Fragment {
                     Log.d(TAG, "distance : " + distance);
 
                     mScroller.startScroll(sx, sy, distance, 0, DURATION); //값이라 가로
-                } else {
+                } else {//vertical viewpager
                     if (/*1번 수식*/sy == 0 && velocityY > 0 ||/*2.번 수식*/ sy != 0 && velocityY < 0) {
 
                         //Log.d(TAG, "sx :" + sx + "velocityY * sy : " + sy);
@@ -105,8 +105,8 @@ public class ForuDirection_Fragment extends Fragment {
                         /*
                         * sy == 0 && velocityY > 0 첫페이지 버티칼에서 에서 (윗페이지 를 못뜨게 하는 수식)
                         *
-                        * sy != 0 && velocityY < 0 이것또한 verticald에서 horizental로 못넘어가게하는 수식
-                        * 즉 첫페이지에서만 버티칼 호리젠탈만 되도록 하는 수식임 맘에 안들면 삭제해도됨
+                        * sy != 0 && velocityY < 0 vertical에서 첫페이지가 넘어가고 2번째 페이지에서 더이상 vertical뷰가 작동하지 못하게 하는 수식
+                        *
                         *
                         *  이해 안가면 수식을 삭제하보고 적용해보시도록
                         * */
