@@ -1,4 +1,4 @@
-package com.example.awakeprocess;
+package com.androidhuman.example.materialdrawer.awakeprocess;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -9,7 +9,7 @@ public class AwakeReceiver extends BroadcastReceiver {
      * 기기에 어떠한 이벤트(작업) 발생하면 이를 받고자 하는곳을 알려주는 기능
      */
 
-    public static final String ACTION_START = "com.example.awakeprocess.ACTION_START";
+    public static final String ACTION_START = "com.androidhuman.example.materialdrawer.awakeprocess.ACTION_START";
 
     /**
      * 원하는 인텐트가 브로드캐스트 되면 onReceive() 메소드가 자동 호출된다.

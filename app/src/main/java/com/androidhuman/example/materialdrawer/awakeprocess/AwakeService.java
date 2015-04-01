@@ -23,8 +23,8 @@ public class AwakeService extends Service {
 
     private static final String TAG = "myLog";
 
-    private static final String ACTION_START = "com.example.awakeprocess.ACTION_AWAKEN"; // Action to start
-    private static final String ACTION_KEEPALIVE = "com.example.awakeprocess.ACTION_KEEPALIVE"; // Action to keep alive used by alarm manager
+    private static final String ACTION_START = "com.androidhuman.example.materialdrawer.awakeprocess.ACTION_START"; // Action to start
+    private static final String ACTION_KEEPALIVE = "com.androidhuman.example.materialdrawer.awakeprocess.ACTION_KEEPALIVE"; // Action to keep alive used by alarm manager
 
     private static final int KEEP_ALIVE = 3000; // KeepAlive Interval in MS
 

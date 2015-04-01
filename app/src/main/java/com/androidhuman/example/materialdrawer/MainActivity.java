@@ -2,6 +2,7 @@ package com.androidhuman.example.materialdrawer;
 
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
+import android.content.Intent;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
@@ -16,16 +17,17 @@ import android.widget.ExpandableListView;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
+import com.androidhuman.example.materialdrawer.awakeprocess.AwakeReceiver;
 import com.androidhuman.example.materialdrawer.expandable.Group;
 import com.androidhuman.example.materialdrawer.expandable.MyExpandableListAdapter;
 import com.androidhuman.example.materialdrawer.main_fragment_folder.ForuDirection_Fragment;
 
 
 public class MainActivity extends ActionBarActivity {
-/*
-* 명식 충돌 1100
-*
-* */
+    /*
+    * 명식 충돌 1100
+    *
+    * */
     Toolbar toolbar;
     /**
      * 좌측 숨겨진 메뉴와 메인화면을 담는 Layoiut
@@ -58,6 +60,9 @@ public class MainActivity extends ActionBarActivity {
         dlDrawer.setDrawerListener(dtToggle);
         coustomFragmentManager();
         showCustomTitleAndSubtitle();
+
+        Intent boradcastIntent = new Intent(AwakeReceiver.ACTION_START);
+        sendBroadcast(boradcastIntent);
 
     }
 
