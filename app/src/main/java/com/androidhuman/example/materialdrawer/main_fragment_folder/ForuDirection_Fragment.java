@@ -37,13 +37,22 @@ public class ForuDirection_Fragment extends Fragment {
 
     public class FourDirectionLayout extends ViewGroup {
         private final String[] TEXTS = {
-                "left view, left swipe only TAG 0",
-                "right view, right swipe only TAG 1",
-                "top view, top swipe only TAG 2",
-                "bottom view, bottom swipe only TAG 3",
-                "central view, swipe to the left, right, top or bottom TAG 4",
+                "left",
+                "right",
+                "top",
+                "bottom",
+                "view",
 
         };
+        private final String[] TEXTS_2 = {
+                "왼쪽",
+                "오른쪽",
+                "천장",
+                "바닥",
+                "보다",
+
+        };
+
         private final int[] COLORS = {
                 0xaa0000ff, 0xaa0000ff, 0xaaff0000, 0xaaff0000, 0xaa00ff00
         };
@@ -72,7 +81,7 @@ public class ForuDirection_Fragment extends Fragment {
 */
 
 
-                    if (/*1번 수식*/sx == 0 && velocityX > 0 ||/*2번 */ sy != 0 && (Math.abs(velocityX) > Math.abs(velocityY))) {
+                    if (/*1번 수식*/sx == 0 && velocityX > 0 /*||2번  sy != 0 && (Math.abs(velocityX) > Math.abs(velocityY))*/) {
                         //Log.d(TAG, "sy :" + sy + "velocityX * sx : " + velocityX);
                         return false; /*부정 리턴값으로 이게 페이지를 더이상 못넘기게 하는 값임
                          sx == 0 && velocityX
@@ -89,14 +98,11 @@ public class ForuDirection_Fragment extends Fragment {
                     }
 //                DURATION = (int) (1000 * w / Math.abs(velocityX));
                     int distance = velocityX < 0 ? w : -w;
-                    Log.d(TAG, "velocityX : " + velocityX);
-                    Log.d(TAG, "sx : " + sx);
-                    Log.d(TAG, "sy : " + sy);
-                    Log.d(TAG, "distance : " + distance);
+
 
                     mScroller.startScroll(sx, sy, distance, 0, DURATION); //값이라 가로
                 } else {//vertical viewpager
-                    if (/*1번 수식*/sy == 0 && velocityY > 0 ||/*2.번 수식*/ sy != 0 && velocityY < 0) {
+                    if (/*1번 수식*/sy == 0 && velocityY > 0 /*||2.번 수식 sy != 0 && velocityY < 0*/) {
 
                         //Log.d(TAG, "sx :" + sx + "velocityY * sy : " + sy);
 
@@ -112,7 +118,7 @@ public class ForuDirection_Fragment extends Fragment {
                         * */
                     }
 //                DURATION = (int) (1000 * h / Math.abs(velocityY));
-                    Log.d(TAG, "X : " + Math.abs(velocityX) + "Y : " + Math.abs(velocityY));
+
                     int distance = velocityY < 0 ? h : -h;
                     mScroller.startScroll(sx, sy, 0, distance, DURATION); //y값이라 세로
                 }
@@ -126,6 +132,16 @@ public class ForuDirection_Fragment extends Fragment {
         public FourDirectionLayout(Context context) {
             super(context);
             for (int i = 0; i < TEXTS.length; i++) {
+                TextView tv = new TextView(context);
+                tv.setTag(i);
+                tv.setTextSize(32);
+                tv.setTypeface(Typeface.DEFAULT_BOLD);
+                tv.setTextColor(0xffeeeeee);
+                tv.setText(TEXTS[i]);
+                tv.setBackgroundColor(COLORS[i]);
+                addView(tv);
+            }
+            for (int i = 0; i < TEXTS_2.length; i++) {
                 TextView tv = new TextView(context);
                 tv.setTag(i);
                 tv.setTextSize(32);
