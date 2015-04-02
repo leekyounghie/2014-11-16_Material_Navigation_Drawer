@@ -1,0 +1,1950 @@
+﻿when	언제
+it	그것은, 그것이
+beautiful	아름다운
+sure	확실한
+an	하나의
+will	(미래조동사)~일 것이다
+put	두다
+take	잡다, 가지고 가다, 섭취하다
+oneself	자기자신의
+run	달리다
+say	말하다, ~라고 쓰여있다
+hi	안녕하세요
+than	~보다
+he	그, 그는
+hear	듣다
+write	쓰다
+oil	기름
+on	~위에
+small	작은
+sky	하늘
+again	다시
+no	아니오
+with	~와 함께
+today	오늘
+English	영어
+can	~할 수 있다
+not	~이 아닌
+give	주다
+his	(소유격)그의
+live	살다
+was	~이었다
+speak	말하다
+egg	알
+make	만들다
+then	그러면, 그때
+back	뒤로, 등
+here	여기
+man	남자, 사람
+world	세상
+soon	곧
+first	첫 번째의
+right	오른쪽
+call	부르다
+before	이전에
+is	~이다
+this	이것, 이것은
+begin	시작하다
+time	시간, 횟수(-s)
+of	~의, ~중에서
+or	또는
+for	~을 위해, ~을 향해
+you	너, 너는, 너희들, 너희들은
+too	~도 또한
+Korea	한국
+to	~에, ~까지
+one	하나
+study	공부하다
+our	(소유격)우리의
+much	많은
+word	말, 단어
+every	모든
+see	~을 보다
+after	~뒤에
+really	정말
+car	자동차
+last	마지막의
+get	얻다
+walk	걷다
+could	can의 과거 형
+may	~일지 모른다
+Mr.	(남자)~씨
+very	매우
+understand	이해하다
+in	~에, ~안에
+some	약간의, 어떤
+think	생각하다
+by	~의 옆에
+me	(목적격)나를, 나에게
+use	사용하다
+something	무엇인가,아무것도
+people	사람들
+way	길
+try	시도하다
+about	~에 대하여, 약
+day	날, 낮, 하루
+so	그렇게, 매우
+why	왜
+morning	오전
+become	~이 되다
+kid	아이
+just	바로
+into	~안으로
+your	(소유격)당신의
+have	~을 가지다
+away	떨어져서
+read	읽다
+only	유일한
+all	모든
+apple	사과
+out	밖에
+home	집
+and	그리고, 그래서, ~과
+many	많은
+what	무엇
+them	(목적격)그들을, 그들에게
+name	이름
+please	부디
+were	are의 과거 형
+find	찾다
+also	또한
+go	가다
+there	거기, 거기에
+now	지금
+help	돕다
+my	(소유격)나의
+year	년도
+lot	다수
+but	그러나
+girl	소녀
+boy	소년
+old	늙은
+him	(목적격)그를, 그에게
+father	아버지
+because	왜냐하면
+ours	우리의 것
+sit	앉다
+answer	답하다
+hard	어려운
+start	시작하다
+school	학교
+I	나, 나는, 내가
+am	~이다
+how	어떻게
+play	놀다
+child	어린이
+new	새로운
+friend	친구
+which	어느 것
+they	그들, 그것들, 그들은
+as	~처럼
+yes	예
+family	가족
+always	언제나
+mother	어머니
+next	다음
+young	젊은
+talk	말하다
+sun	태양
+like	좋아하다
+at	~에서, ~때에
+if	만일~면
+work	일하다
+never	결코 ~이 아니다
+do	~을 하다
+well	잘
+would	will의 과거 형
+are	~이다
+who	누가
+leave	떠나다
+a	하나의, 한
+their	(소유격)그들의
+country	나라
+from	~부터
+window	창문
+us	(목적격)우리를
+good	좋은
+her	(소유격)그녀의, (목적격)그녀를
+stay	머무르다
+up	위로
+hit	치다
+place	장소
+she	그녀, 그녀는
+look	보다
+we	우리, 우리는
+any	조금도
+thing	물건, 일
+teacher	선생님
+Korean	한국의, 한국인
+that	저것, 그것, 저것은
+eat	먹다
+big	큰
+kind	친절
+money	돈
+ok	승인하다, 좋아
+more	더 많은
+the	그(정관사)
+let	하게하다
+other	다른
+be	be동사 원형
+little	작은
+know	알다
+student	학생
+long	긴, 오래
+visit	방문하다
+come	오다
+plant	식물
+touch	만지다
+prefer	선호하다
+knife	칼, 나이프
+smell	냄새, 냄새 맡다
+army	육군, 군대
+same	같은
+limit	제한하다
+death	죽음
+less	~보다 적은
+blow	바람이 불다
+layer	층
+race	경주
+kick	~를 차다
+according	~에 의하면
+empty	비어있는
+grow up	성인, 성장한
+road	도로
+door	문
+carefully	주의 깊게
+meat	고기
+spend	돈을 소비하다
+justice	정의
+drop	떨어지다
+television	텔레비전
+population	marathon
+waste	폐기물
+lose	잃다
+coffee	커피
+alphabet	알파벳
+easily	쉽게
+zoo	동물원
+athlete	운동선수
+map	지도
+American	미국인, 미국의
+independence	독립, 독립심
+cat	고양이
+holiday	휴일
+son	아들
+airplane	비행기
+laugh	웃다
+museum	박물관
+ski	스키
+already	벌써, 이미
+president	대통령
+Friday	금요일
+distance	거리
+stream	개울
+hotel	호텔
+marathon	마라톤
+uniform	제복
+gym	체육관
+bridge	다리
+win	이기다
+far	멀리
+vegetable	채소
+math	수학
+painting	그림, 그림 그리기
+sight	광경, 경치
+pick	따다, 고르다
+fear	두려움
+part time	파트타임에
+watch	시계
+whose	누구의
+fact	사실
+abroad	외국으로
+artist	예술가
+bowl	볼
+wall	담벼락
+neither	어느 것도 아니다
+receive	받다
+cry	외치다, 울다
+coat	코트
+someone	누군가
+mail	우편물, 우송하다
+electric	전기의
+sweater	스웨터
+dish	접시
+praise	칭찬하다
+taste	맛, 취미
+nurse	간호사
+upstairs	위층으로
+wisdom	지혜
+waiter	웨이터
+eye	눈
+bedroom	침실
+flame	불꽃
+shape	모양
+China	중국
+case	경우,사건
+orange	오렌지
+between	~의 사이에
+hardly	거의
+nearby	가까이에
+excuse	용서하다
+smooth	매끄러운
+each	각각의
+park	공원, 주차하다
+evening	저녁
+soft	부드러운
+cake	과자, 케이크
+fee	요금
+mouth	입
+ocean	대양
+communicate	전달하다, 알리다
+history	역사
+noise	소리, 시끄러운 소리
+pass	지나가다
+tonight	오늘밤
+forget	잊다
+fat	지방, 살찐
+beside	~의 옆에
+wave	물결, 물결치다
+space	우주, 공간
+classical	고전적인
+sound	소리
+cage	새장
+blind	눈먼
+skin	피부
+planet	행성, (the -)지구
+consist	~으로 이루어지다
+pray	기도하다
+bit	조금, 작은 조각
+cold	추운
+whom	누구를, 누구에게
+adventure	모험
+brush	솔
+courage	용기
+pair	한 쌍
+stamp	우표
+best	가장 좋은
+cross	가로질러
+cure	치료하다
+trip	여행
+sunlight	태양빛
+wish	바라다, 소원
+opera	오페라
+season	계절
+rest	쉬다, 휴식
+trust	신용,신용하다
+tree	나무
+jungle	정글
+tourist	관광객
+June	6월
+daughter	딸
+tired	피곤한
+hero	영웅
+castle	성
+battle	전투
+yard	마당
+blue	파란
+prison	교도소
+jet	제트기
+worry	걱정하다
+gather	모으다
+pleasure	기쁨
+sum	합계하다
+glass	유리
+north	북쪽
+monument	기념비, 기념물
+skill	기술
+blood	피
+area	지역
+conductor	지휘자
+melon	멜론
+democracy	민주주의
+happen	(일이)일어나다
+photo	사진
+month	월, 개월
+these	이것들
+mercy	자비
+fire	불
+sorry	미안
+movement	행동
+feed	먹을 것을 주다,기르다
+etc.	~등
+foreigner	외국인
+check	확인하다
+picture	그림
+honor	명예
+magazine	잡지
+bathroom	욕실
+noisy	시끄러운
+although	비록~일지라도
+lady	부인, 숙녀
+exercise	운동, 연습
+salt	소금
+poison	독약
+wolf	늑대
+together	함께
+pencil	연필
+scene	장면, 광경
+keep	유지하다
+ahead	앞에
+farm	농장
+lazy	게으른
+medicine	약
+character	성격, 인격
+important	중요한
+twinkle	반짝이다
+tennis	테니스
+fool	바보
+under	~아래에
+since	~이래로
+design	설계
+third	세 번째
+gentleman	신사
+certainly	확실히
+communication	공동체, 지역사회
+capital	수도, 대문자
+loose	헐렁한
+tie	넥타이, 묶다
+secret	비밀
+giant	거인,거대한
+until	~까지
+prince	왕자
+trap	덫, 함정
+news	소식
+the United States	미합중국
+honest	정직한
+though	~이기는 하지만
+front	앞
+while	~하는 동안
+east	동쪽
+yet	아직
+rain	비
+throw	던지다
+conversation	회화
+Greek	그리스의
+office	사무소
+camera	사진기
+root	뿌리
+proud	자랑스러운
+forest	숲
+furniture	가구
+instance	사례
+silver	은
+Thursday	목요일
+cover	덮다
+cute	귀여운
+movie	영화
+law	법, 법률
+result	결과
+nest	보금자리
+set	놓다, 해가지다
+economy	경제
+national	국민의, 국가의
+citizen	시민
+bless	축복하다
+bird	새
+without	~이 없이
+mistake	결점, 잘못
+pull	끌다, 잡아당기다
+culture	문화
+unusually	이상한
+quiet	조용한
+meal	식사
+youth	젊음
+cream	크림
+bottom	밑바닥
+mouse	입
+game	게임
+shake	흔들다
+create	창조하다
+add	더하다
+player	선수
+care	걱정, 돌봄
+summer	여름
+manner	태도, 예절
+bookstore	서점
+cleverly	영리한
+hand	손
+perhaps	아마도
+spring	봄
+cut	자르다
+robot	로봇
+lend	빌려주다
+probably	아마
+bell	종
+crayon	크레용
+Japan	일본
+adult	어른
+February	2월
+wing	날개
+goal	목표, 득점
+grass	풀, 잔디
+engineer	기술자
+almost	거의
+language	언어
+turtle	거북
+actually	실제로
+pity	동정
+machine	기계
+burn	타다, 태우다
+painter	화가
+cup	잔
+city	도시,시
+main	주요한
+clerk	사무원, 점원
+speaker	말하는 사람
+sometimes	가끔
+cancer	암
+breath	숨쉬다, 호흡하다
+extra	여분의
+tunnel	터널
+pop	대중적인
+future	미래의
+effort	노력
+breakfast	아침식사
+course	과정
+greet	인사하다
+health	건강한
+follow	따르다
+market	시장
+present	선물, 현재
+pilot	조종사, 파일럿
+thirsty	목마른
+thousand	천(1000)
+flight	비행
+frog	개구리
+dinner	만찬
+congratulation	축하
+handkerchief	손수건
+fellow	동료
+neighbor	이웃사람
+rainstorm	폭풍우
+lake	호수
+idea	생각,관념
+life	생명
+captain	우두머리, 선장
+grandmother	할머니
+wander	헤매다
+shoe	신발
+talent	재능
+kangaroo	캥거루
+poor	가난한
+lucky	운이 좋은
+similar	비슷한
+explain	설명하다
+scenery	풍경
+mark	기호, 점수
+stand	서있다
+speech	연설
+mom	엄마
+dollar	달러
+gun	총
+generally	일반적으로
+boil	끓다
+tomb	무덤
+guide	안내하다
+music	음악
+mix	섞다
+color	색깔
+boat	배
+relative	친척
+finger	손가락
+mild	온화한, 상냥한
+till	언제까지
+tea	차
+temple	사원, 절
+wet	젖은
+everybody	모두
+April	4월
+bow	절하다
+great	위대한
+end	끝
+anyway	어쨌든
+team	팀
+doubt	의심하다
+survive	살아남다
+system	체계
+dog	개
+calendar	달력
+deal	거래하다
+downstairs	아래층으로
+America	미국
+monkey	원숭이
+should	~일 것이다
+Monday	월요일
+supper	저녁식사, 정찬
+baby	갓난아이
+marry	결혼하다
+universe	우주
+knock	두드리다, 노크
+sports	운동
+continue	계속하다
+headache	두통
+freedom	자유
+bike	자전거
+rice	쌀, 밥
+cheap	값이 싼
+instead	대신에
+devil	악마
+November	11월
+its	그것의
+different	다른
+ache	아픔, 고통
+flag	깃발
+model	모형, 모범
+glove	장갑
+dining room	식당
+German	독일의, 독일사람
+collage	단과대학
+French	프랑스
+lesson	수업
+society	사회
+memorize	외우다, 기억하다
+northern	북쪽의
+arrive	도착하다
+sailor	선원
+foolish	어리석은
+asleep	잠이 든
+foot	발
+cinema	영화
+brave	용감한
+bye	안녕
+experiment	실험
+coach	사륜마차, 코치
+pond	연못
+moon	달
+business	사업, 일
+government	정부
+poem	시
+horse	말
+duck	오리
+hello	안녕하세요
+animal	동물
+scalar	학자
+rocket	로켓
+bath	목욕
+apartment	아파트
+war	전쟁
+perfect	마음에 드는, 아주 좋아하는
+jewelry	보석
+winter	겨울
+grandfather	할아버지
+feel	느끼다
+smile	미소 짓다
+theater	극장
+anywhere	어디나
+information	정보
+pour	쏟다, 퍼붓다
+spread	펼치다
+snow	눈
+build	짓다, 건축하다
+invent	발명하다
+attention	주의
+ride	타다
+popular	인기 있는
+indoor	실내의
+those	그들
+idle	게으른
+yours	당신의 것
+king	왕
+truth	진리, 진실
+dream	꿈
+natural	자연의
+grape	포도
+state	상태, 국가
+weather	날씨
+sightseeing	구경하다
+hospital	병원
+medal	매달, 훈장
+number	수, 번호
+cave	동굴
+riving room	거실
+past	과거의
+worst	가장 나쁜
+dad	아빠
+divide	나누다
+earth	지구
+especially	특히
+album	앨범
+island	섬
+nearly	거의
+wake	깨다
+maybe	아마
+cloud	구름
+ever	언젠가, 영원히
+pen pal	펜팔
+act	행동하다
+possible	가능한
+point	점, 요점
+soup	수프, 국
+period	기간, 시대
+sunshine	햇빛
+nothing	아무것도 ~않다
+phone	전화
+special	특별한
+servant	하인
+finally	마침내
+comfortable	기분 좋은, 안락한
+tooth	이, 치아
+fox	여우
+welcome	환영하다
+station	기차역
+stomach	위
+close	닫다
+method	방법
+corner	구석
+musical	음악의, 음악적인
+band	띠
+kilometer	킬로미터
+practice	연습
+sweat	땀
+quickly	빠른 , 빨리
+none	아무도 ~ 않다
+sick	아픔, 고통
+path	작은 길
+modern	현대의
+lovely	사랑스러운
+forever	영원히
+handsome	잘생긴
+glad	기쁜
+Europe	유럽
+bicycle	자전거
+camp	야영하다
+mile	마일
+telephone	전화
+lawyer	변호사
+push	밀다
+stone	돌덩이
+remember	기억하다
+test	시험
+power	힘
+brown	갈색
+bed	침대
+form	모양, 모양을 이루다
+harm	손해, 해치다
+England	영국
+shock	충격
+stove	난로
+dress	의복, 옷을 입다
+dance	춤추다
+sign	신호,서명하다
+heart	심장, 마음
+Japanese	일본의, 일본사람
+leg	다리
+later	나중에
+wind	바람
+professor	교수
+midnight	한밤중
+department	부서 분야
+mountain	산
+paper	종이
+kitchen	부엌
+top	탑
+delicious	맛있는
+connect	연결하다
+lunch	점심식사
+center	중앙
+tiger	호랑이
+show	보여주다
+luck	행운
+completely	완전히
+does	do의 3인칭 단수
+trade	무역
+tall	키가 큰
+somewhere	어딘가에
+weekend	주말
+nature	자연
+o'clock	정각
+bus	버스
+often	종종
+enemy	적
+cookie	쿠키
+believe	믿다
+dig	파다
+clock	시계
+beginning	시작
+Canada	캐나다
+sister	자매
+doctor	의사, 박사
+except	~를 제외하고는
+volleyball	배구
+dictionary	사전
+fruit	과일
+wool	양털
+anybody	누군가
+success	성공
+else	그 외에
+miracle	기적
+host	주인
+ship	배
+note	각서, 메모
+hour	시간
+where	어디에
+rose	장미
+Wednesday	수요일
+night	밤
+august	8월
+actor	배우
+good bye	안녕(작별인사)
+autumn	가을
+huge	거대한
+pardon	용서하다
+soldier	군인
+ink	잉크
+turn	회전하다
+yesterday	어제
+clean	깨끗한
+tape	테이프
+tail	꼬리
+author	저자, 작가
+jacket	재킷
+plane	비행기
+Mrs.	(여성)~씨, ~부인
+difference	차이
+pride	자랑, 자존심
+unify	통일하다
+meter	미터
+art	예술, 미술
+toy	장난감
+low	낮은
+disease	병, 질병
+drum	북
+spirit	정신
+slow	느린
+leaf	나뭇잎
+step	걸음, 계단
+hammer	망치
+newspaper	신문
+condition	조건, 상태
+ambition	큰 뜻을 품은, 야망을 품은
+traffic	교통
+runner	주자
+October	10월
+hair	머리털
+cousin	사촌
+golden	황금 같은
+share	공유하다
+recorder	녹음기
+Spain	스페인
+sleep	자다
+normal	보통의 ,정상의
+date	날짜, 데이트
+symbol	상징
+simple	간단한
+nose	코
+computer	컴퓨터
+unless	만일 ~ 아니면
+basket	바구니
+warm	따뜻한
+Sunday	일요일
+kindness	친절
+ball	공
+sale	판매
+hang	걸다
+develop	개발하다
+travel	여행
+memory	기억, 추억
+meeting	모임
+subway	지하철
+roll	구르다
+useful	쓸모 있는
+woman	여자
+however	그러나
+foreign	외국의
+wood	나무
+picnic	소풍
+inside	안쪽
+century	세기, 100년
+cent	센트
+excitement	흥분
+officer	장교, 경찰관
+swim	수영하다
+ghost	유령
+certain	확실한, 어떤
+smoke	연기, 담배 피우다
+sad	슬픈
+cloth	천, 헝겊
+hometown	고향
+curtain	커튼
+fill	채우다
+choose	고르다
+football	축구
+education	교육
+million	백만
+umbrella	우산
+cheese	치즈
+weight	무게
+turkey	칠면조
+neck	목
+suppose	상상하다, 생각하다
+light	빛
+garden	정원
+powerful	강력한
+outside	외부
+equal	같은
+accident	사고
+nobody	아무도~아니다
+enough	충분한
+double	두 배의
+calm	고요한
+baseball	야구
+enter	들어가다, 입학하다
+pay	돈을 내다
+dive	다이빙하다
+appointment	약속
+truck	트럭
+juice	주스
+milk	우유
+Spanish	스페인의 ,스페인사람
+left	왼쪽
+shall	~일 것이다
+cook	요리사
+afternoon	오후
+arm	팔
+along	~을 따라서
+hate	미워하다
+either	어느 한쪽의, ~도 또한
+dry	마른, 말리다
+opinion	의견
+steak	스테이크
+wear	입다, 착용하다
+somebody	누구라도, 누군가
+queen	여왕
+afraid	걱정하여
+anyone	아무도, 누구라도
+surprise	놀라게 하다
+party	파티
+joy	즐거움, 기쁨
+Chinese	중국의 중국사람
+boring	지루한
+quite	매우
+anything	아무것도 ~않다
+unite	결합하다
+satisfy	만족시키다
+pocket	호주머니
+heaven	하늘
+excite	흥분시키다
+sea	바다
+beyond	~저편에
+fight	싸움하다, 말다툼하다
+humanism	인간의, 인간적인
+stranger	낯선 사람
+nor	~도 또한 ~아니다
+habit	습관
+strong	강한
+suddenly	갑자기
+class mate	반 친구
+singer	가수
+pleasant	기분 좋은
+early	일찍
+fog	안개
+several	몇몇의
+yellow	노란색
+person	사람
+value	가치
+behind	~의 뒤에
+another	또 하나의 다른
+excellent	우수한
+Italian	이탈리아의
+glory	영광
+during	~동안
+coast	해안
+elementary	기본의 초보의
+deep	깊은
+interest	흥미
+choice	선택
+Russia	러시아의,러시아사람
+navy	해군
+visitor	손님
+friendship	우정
+flower	꽃
+fresh	신선한
+cost	비용
+garbage	쓰레기
+class	수업, 학급
+sense	감각
+peace	평화
+pants	바지
+experience	경험, 경험하다
+hers	그녀의 것
+shop	가게
+side	측면
+south	남쪽
+hall	구멍
+charming	매력적인
+hat	모자
+sail	항해하다
+round	~주위에
+science	과학
+ancestor	조상
+hobby	취미
+repeat	되풀이하다
+amount	양, 액수
+hungry	배고픔
+fry	기름에 튀기다
+southern	남쪽의
+everyone	모두다
+nation	국민, 국가
+search	찾다,수색하다
+reader	독자
+send	보내다
+through	~을 통하여
+climate	기후
+notebook	공책
+magic	마법, 마법의
+shot	사격하다
+lips	입술
+hide	숨다
+energy	힘
+hell	지옥
+line	선, 줄
+candy	캔디
+radio	라디오
+angry	화난
+wine	포도주
+reply	대답하다
+knee	무릎
+promise	약속하다
+seed	씨앗
+toward	~쪽으로
+seem	~처럼 보이다
+fix	고정시키다
+wonderful	놀라운
+Olympic	올림픽
+rock	바위
+question	질문
+bright	밝은
+fall	떨어지다
+rich	부유한
+wife	아내
+lie	눕다, 거짓말
+Roman	로마, 로마사람
+festival	축제
+cheer	환호하다
+pool	수영장
+skate	스케이트
+sugar	설탕
+love	사랑하다
+print	인쇄
+trick	묘기
+vacation	휴가
+shut	닫다
+usually	대개
+fun	재미
+violin	바이올린
+large	늦은
+town	마을
+everything	모든 것
+ring	원, 반지
+dirty	더러운
+hill	언덕
+open	열다
+member	회원
+shopkeeper	가게주인
+service	섬기다, 봉사하다
+ill	아픈
+river	강
+bag	가방
+beach	해변
+advise	충고
+dozen	1다스, 12개
+university	대학
+Tuesday	화요일
+ice	얼음
+pen	펜
+expensive	비싼
+head	머리
+Saturday	토요일
+piano	피아노
+leader	지도자
+lecture	강의 ,강의하다
+butter	버터
+alive	살아있는
+letter	편지
+restaurant	레스토랑
+badly	나쁘게
+box	상자
+lion	사자
+kill	죽이다
+break	깨지다
+potato	감자
+sing	노래하다
+custom	관습
+educate	교육하다
+rabbit	토끼
+such	그러한
+thought	생각
+whether	인지, 어떤지
+rule	규칙, 지배하다
+page	페이지
+friendly	친한
+feeling	느낌
+sir	~님
+white	흰색
+weak	약한
+feather	깃, 깃털
+scientist	과학자
+Christmas	크리스마스
+wild	야생의, 난폭한
+ready	준비된
+off	멀리, 꺼진
+doll	인형
+join	결합하다, 참가하다
+fish	물고기, 낚시
+wise	현명한
+Australian	오스트레일리아의
+impossible	불가능한
+sell	팔다
+solve	풀다
+high	높은
+social	사회의
+ago	~전에
+sweet	달콤한
+west	서쪽
+week	일주일
+ticket	표, 입장권
+climb	오르다
+aunt	아주머니
+wonder	궁금해하다
+clear	맑은
+sandwich	샌드위치
+curiosity	호기심이 강한
+textbook	교과서
+example	예제
+birthday	생일
+gift	선물, 재능
+plate	접시
+heavy	무거운
+metal	금속
+blackboard	칠판
+wagon	집 마차
+silly	어리석은
+uncle	삼촌
+careful	주의 깊은
+silent	조용한
+happiness	행복
+ear	귀
+film	필름, 영화
+trouble	고생, 어려움
+shirts	셔츠
+valley	계곡
+library	도서관
+against	~반대하여
+change	변화하다
+safety	안전
+medical	의학의
+poster	벽보
+precious	귀중한
+rope	줄, 밧줄
+January	월
+reason	이유
+express	표현하다
+international	국제적인
+twice	두 배로
+garage	차고
+once	한 때
+god	신, 하나님
+graduate	졸업하다
+manager	지배인
+shine	빛나다
+candle	양초
+group	집단
+problem	문제
+field	들판
+guitar	기타
+statue	조각상
+matter	일, 문제
+farmer	농부
+half	절반, 30분
+gesture	몸짓, 손짓
+junior	후배의, 젊은
+chicken	병아리
+club	클럽
+imagine	상상하다, 생각하다
+own	자기자신의
+famous	유명한
+story	이야기
+below	celebrate
+successful	성공적인
+water	물
+key	열쇠
+July	7월
+both	둘 다
+basic	기초의
+basketball	농구
+diary	일기
+single	혼자의
+body	몸
+worse	더 나쁜
+interesting	흥미 있는
+serious	진지한
+judge	재판하다, 재판관
+size	크기
+safe	안전한
+bread	빵
+industry	산업, 공업
+Asia	아시아
+piece	한 장, 조각
+melt	녹다, 녹이다
+factory	공장
+wash	씻다
+funny	재미있는
+hurt	상처를 입히다  상처
+among	~사이에
+frankly	솔직히
+card	카드
+chair	의자
+teach	가르치다
+food	음식
+price	가격
+danger	위험
+homework	숙제
+engine	엔진
+advice	충고
+noon	정오
+throat	목구멍
+unhappy	불행하게도
+shout	외치다
+building	건물
+near	가까운
+pollute	더럽히다, 오염시키다
+sorrow	슬픔
+scientific	과학의, 과학적인
+event	사건, 행사
+drink	마시다
+tomorrow	내일
+alone	홀로
+song	노래하다
+introduce	소개하다
+village	마을
+well done	고기가 잘 익은
+bottle	병아리
+paint	그리다
+parent	부모님
+age	나이, 시대
+church	교회
+goods	상품
+circle	원
+hurry	서두르다
+die	죽다
+meaning	뜻, 의미
+public	공공의,공적인
+fifth	다섯 번째의
+list	목록
+guest	손님
+fly	날다
+classroom	교실
+gold	금
+wide	폭이 넓은
+guess	추측하다
+sin	범죄
+above	~위에,
+chocolate	초콜릿
+wait	기다리다
+bring	가져오다
+program	프로그램
+expression	표현
+few	거의 없는
+listen	듣다
+floor	바닥, 건물의 층
+simply	간단히
+fence	울타리
+local	지방의
+lonely	고독한
+September	9월
+red	빨간
+street	길거리
+female	여성, 여성의
+schedule	예정, 시간표
+black	검정색
+madam	부인
+wrong	잘못된
+private	개인의
+brother	형제
+patience	인내
+disappointment	실망시키다
+airport	공항
+common	공통의 ,보통의
+desk	책상
+sleepy	졸린
+mayor	시장
+grow	성장하다
+most	가장 좋은
+actual	실제의, 사실상의, 현실의, 실적, 현물
+destructive	파괴적인, 파멸적인, 해로운, 유해한
+earnings	수입, 소득
+elegance	우아함
+embarrass	난처하게 하다
+evolution	전개, 발전, 진화, 방출
+heritage	상속재산, 유산, 전통, 천성
+individual	개개의, 개인적인, 독특한, 단일의
+kneel	무릎 꿇다, 굴복하다
+luxury	사치, 사치품, 향락, 사치스러운, 고급의
+marriage	결혼, 결혼 생활
+mob	군중, 폭도
+organization	조직, 단체
+procedure	수속, 진행, 절차
+self-esteem	자존심, 자부심
+strife	투쟁, 싸움, 경쟁, 분쟁
+surgeon	외과 의사
+vanity	덧없음, 공허, 무익한 일, 허영의 근원
+aging	노화,고령의, 연로한, 숙성
+apology	사과, 변명, 변호, 해명
+audience	청중, 관객, 추종자, 청휘, 경청, 공식회견
+causal	원인이 되는
+consume	소비하다, 다 써버리다, 없애버리다, 낭비하다
+donation	기부(금), 기증
+efficiency	능률, 효력, 유효성
+fluid	액체, 유동성의
+freezing	몹시 추운
+inability	무능, 무력
+merit	우수함, 장점, 공로, 공과, ~할 만하다
+midterm	중간고사
+output	작품 수, 산출, 생산
+overcrowded	매우 혼잡한, 초만원의
+regrettably	유감스럽게도
+scent	향기, 냄새 맡다
+sigh	한숨(쉬다)
+swell	부풀다, 부풂
+capitalism	자본주의
+Confucianism	유교
+faith	신념, 신조, 신앙심, 신뢰, 성실, 약속
+further	그 이상의,더 나아가,진행시키다, 더욱 멀리
+intellect	지성, 지능, 지식인
+life-threatening	생명을 위협하는
+lightning	번개
+meadow	목초지, 초원, 강변의 풀밭
+owe	힘입다, 빚(의무)이 있다
+perfume	향수, 향기
+prosecution	수행, 종사, 경영, 기소, 구형
+resistance	저항, 반대, 저항력, 나치저항운동
+soft drink	청량 음료
+torture	고문, 고뇌, 고문하다
+vary	변화하다, 변경하다, 다르다, 일탈하다
+venture	감히 ~하다, 투기적 사업
+activity	활동, 행동, 사업, 운동, 움직임, 호경기
+ashamed	부끄러워하는, 수줍어하는, 딱하게 여기는
+Buddhism	불교
+childish	유치한
+cloudless	구름 없는, 맑게 갠
+cottage	오두막집, 시골집
+definition	정의
+diplomacy	외교(술)
+estate	재산, 지위
+frame	구조, 골격, 형성하다
+generously	아낌없이, 관대하게
+human	인간의, 인간다운
+lung	폐, 허파
+oppress	압박하다
+origin	기원, 태생
+piety	경건, 충성심, 경애, 신앙심
+plastic bag	비닐 봉지
+profit	이익, 소득, 이자, ~의 이익이 되다, 소득을 얻다
+refer	언급하다, 참조하다
+respond	응답하다, 반응하다, 책임을 다하다, ~에 답하다
+rivalry	경쟁, 대항
+sob	흐느껴 울다
+sponsorship	후원
+traffic jam	교통체증
+weapon	무기
+admiral	해군대장, 제독
+article	기사, 조항, 품목, 논설, 조항, 계약
+attendance	출석, 참석, 간호, 서비스
+checkup	건강 진단, 점검, 분해검사
+emphasis	강조, 강세, 역설, 중요성
+essay	수필
+fountain	분수, 근원, 원천
+gas station	주유소
+growth	성장, 발전, 증대, 배양, 발생
+jealousy	질투, 투기, 시샘, 경계심
+journalism	언론, 신문 방송학
+nutrition	영양, 음식물, 영양학
+package	패키지 여행, 소포
+plow	쟁기, 경작, 갈다, 주름살을 짓다, 물결을 가르고 나아가다
+poverty	가난, 결핍, 열등, 빈약
+proportion	비율, 조화, 부분, 규모, 조화시키다, 할당하다
+reaction	반작용, 반동, 반응
+region	지역, 지방, 영역
+robbery	강도, 강도 사건
+rumor	소문, 풍문, 남의 이야기를 하다
+scholarship	장학금
+sincerity	성실, 진실, 순수함
+subjective	주관적인
+summary	요약, 요약한
+angle	각도, 관점, 귀퉁이, 국면, 상황
+aspect	양상, 국면, 외관, 정세, 전망, 견해
+babysit	아이를 봐주다
+back pain	요통
+baggage	짐, 수화물, 인습
+barometer	기압계, 지표, 표준, 척도
+cancel	~을 지우다, 취소하다, 상쇄하다, 약분되다, 취소, 말살
+characterize	특징 지우다, 특성을 묘사하다, ~으로 보다
+fluency	유창함
+heartwarming	마음이 따스해지는
+injure	해치다, 상처를 입히다, 명예를 훼손하다
+instrument	기구, 수단
+male	남자, 수컷, 남자의
+meaningless	무의미한
+pang	심한 고통, 양심의 가책
+prairie	대초원
+publisher	출판사
+quality	품질, 성질, 우수상, 높은 신분
+riddle	수수께끼
+sculpture	조각
+selfish	이기적인
+tact	재치, 요령
+thirst	갈증, 갈망, 술을 마시고 싶은 기분, 갈망하다
+used	중고의
+atomic	원자(력)의, 원자의, 원자탄의
+avail	쓸모 있다, ~에 효력이 있다. 이익, 효력
+bronze	청동
+category	범부
+cold-blooded	냉혈의, 냉혹한
+conception	개념, 생각, 파악, 구상, 창안, 수태, 발단
+counseling	상담, 조언
+export	수출하다, 수출, 수출품
+gender	성별
+guard	지키다, 조심하다, 경계, 수위
+Muslim	이슬람교도
+must-have	필수품
+practical	실용적인
+preferable	더 마음에 드는
+prepared	준비가 되어 있는
+republic	공화국, 공화정체
+revolutionize	~에 혁명을 일으키다, 근본적으로 바꾸다
+sink	가라앉다,싱크대
+unemployment	실업
+victory	승지, 승전, 극복
+vigor	활기, 체력, 활력, 기운, 구속력
+achievement	업적, 달성, 학력, 달성
+backpacker	배낭 여행자
+career	경력
+cell	세포
+cyberspace	사이버 공간, 가상 공간
+damage	손해, 피해, 배상금, ~에 손해를 입히다, 손상시키다
+debt	빚, 부채
+economist	경제학자
+economy class	(열차, 항공기의) 일반석
+ecosystem	생태계
+medication	약물 치료
+moral	도덕적인, 정신적인, 도덕
+movie-goer	영화관에 자주 가는 사람
+passion	열정, 격노, 정열, 매우 좋아하는 것
+principle	원리, 근본방침, 정의, 본질
+cash	현금으로 바꾸다,현금
+chaos	혼돈, 무질서, 카오스
+conclusion	결론, 결말
+deficient	부족한
+digestion	소화, 소화력, 동화력, 이해
+economics	경제학
+emigrant	이주자
+explanation	설명, 해석, 해명, 화해
+hesitate	주저하다, 망설이다, ~할 마음이 나지 않다, 주저하며 말하다
+imagination	상상(력)
+including	~을 포함하여, ~함께, ~을 넣어서
+informal	비공식의
+Jewish	유대인의, 유대교의
+literature	문학, 문예, 문학연구, 문헌, 논문
+moisture	습기, 수분, 수증기, 땀
+operate	움직이다, 운영하다, 수술하다
+orphanage	고아원
+reduction	축소, 감소
+skyscraper	고층 건물
+study abroad	유학하다
+surgery	외과 수술
+tasteless	무미건조한, 맛없는
+voluntary	자발적인
+bough	나뭇가지
+carve	새기다, 조각하다
+combine	~을 결합시키다, 배합하다, 겸비하다, 연합하다
+disastrous	비참한, 파괴적인
+familiar	친한, 잘 알고 있는, 흔한, 편한, 친구, 정통한 사람
+frustration	좌절, 차질, 실패, 타파, 계약의 불이행, 좌절감
+hatred	증오, 원한, 집단증오
+include	포함하다
+long-term	장기적인
+mystery	신비, 불가사의
+refuge	피난(처)
+relief	구제, 안심
+revenge	복수, 원한, 복수하다
+revolution	혁명, 회전, 공전주기, 순환
+situation	위치, 사태, 상황
+stern	엄한, 엄격한, 단호한, 무서운
+stimulus	자극, 격려, 흥분제
+structure	구조, 건조물
+stuff	재료, 물건
+technology	공업기술, 공예, 응용과학
+thunderstorm	뇌우
+toothpaste	치약
+betrayal	배신, 배반행위, 폭로, 밀고, 내통
+closet	벽장, 옷장,비밀의
+costume	복장, 시대 의상
+daylight	낮,낮 동안의
+detective	탐정, 형사
+dictator	독재자
+differ	다르다
+direct	~에게 길을 가리키다, 감독하다,직접의
+embarrassed	난처한, 당혹한
+embassy	대사관
+expansion	확장
+fever	열
+honesty	정직
+instructive	교훈적인, 유익한
+isolation	고립, 격리
+landlord	집주인
+military	군대의, 육군의, 호전적인, 군인다운
+missing	사라진, 행방불명의
+oath	맹세, 서약
+parachute	낙하산
+preschool	유치원,취학전의
+prime time	(방송의) 황금 시간대
+rapid	빠른
+recreation	휴양, 기분전환, 오락
+threat	위협, 협박, -의 우려, 징조, 강적
+affection	애정, 연모, 감정, 영향, 월경, 편견
+anxiety	걱정, 불안
+automated	자동화된, 자동의
+campaign	(선거)운동
+code	암호, 법전, 규범
+compete	경쟁하다, 필적하다, 어깨를 겨루다
+controversy	논쟁
+department store	백화점
+eat out	외식하다
+exhibition	전시회, 전람회
+expert	전문가, 익숙한 사람
+governor	주지사, 통치자
+grief	슬픔
+holy	신성한, 경건한
+income	(정기적인) 수입, 소득, 급여
+information desk	안내 데스크
+jealous	질투하는, 시기하는
+landscape	풍경, 경치
+limitless	제한이 없는, 무한의
+passport	여권
+personality	개성, 성격, 유명인사
+philosophy	철학
+pork	돼지고기
+previous	이전의, 사전의, 조급한, ~보다 앞서
+spectacle	광경, 안경
+stage	무대, 시기, 단계
+sword	검, 무력
+threaten	위협하다
+tool	도구, 연장
+vision	시력, 통찰력
+worship	예배, 숭배, 명예, 예배하다, 찬미하다
+astray	길을 잃어, 정도에서 벗어나, 타락하여
+burden	무거운 짐, 부담, 짐을 지우다, 고생, 간접비
+celebration	축하, 축전
+density	밀도
+guilty	유죄의
+harmonization	조화, 일치
+ignore	무시하다
+life span	수명
+mammal	포유동물
+narcissistically	자기 도취되어
+payday	월급날, 급여지급일
+physical	물리적인, 물질의, 육체의
+pop culture	대중 문화
+positive	명백한, 적극적인
+quantity	분량, 다량, 다수, 양을 나타내는 숫자, 기간
+review	복습, 재검토, 평론, 재검토하다
+scope	범위, 시야, 여유, 여지, 퍼짐
+self-control	자제, 자제력, 자기 관리
+soothe	위로하다, 진정시키다
+stair	계단
+sympathy	동정, 호의, 연민의 정, 일치, 교감
+tendency	경향, 풍조, 버릇, 성향
+textile	직물, 직물의
+tradition	전설, 전통, 관습
+transact	처리하다, 거래하다
+brief	짧은, 간결한
+clean up	청소하다
+deprive	빼앗다
+describe	묘사하다, 기술하다, 설명하다, 간주하다, 나타내다
+desperately	몹시, 필사적으로
+flesh	살, 육체
+groundwater	지하수, 갱내수
+heir	상속인, 후계자, 상속하다
+idealistic	이상주의적인, 관념론적인
+immoral	부도덕한
+Jew	유대인, 유대교도
+liberty	자유, ~할 권리, 석방, 도를 넘은 자유, 특권
+orientation	안내,
+painful	고통스러운, 괴로운
+preparation	준비, 대비
+pure	순수한, 단순한, 맑은, 청순한, 순종의, 순이론적인
+satisfaction	만족, 만족시키는 것, 빚의 변제
+shortcoming	결점, 단점, 결핍, 흉작
+sponsor	후원 사,후원하다
+standpoint	입장, 견지
+territory	영토, 영역, 분야
+throb	(심장이) 뛰다, 두근거리다, 맥박, 고동, 흥분하다
+violate	어기다, 더럽히다, 어지럽히다, 방해하다, 침해하다
+battlefield	전쟁터
+element	요소, 원소
+excess	초과, 과잉
+harmful	해로운, 해가 되는
+inexpensive	값싼
+long-distance	장거리의
+metropolis	수도, 중심지, 대도시
+partnership	제휴, 협력
+Protestantism	개신교
+psychology	심리학, 심리
+role model	역할 모델, 모범 인물
+sidewalk	보도, 인도
+spokesperson	대변인
+stare	뚫어지게 보다
+tolerable	참을 수 있는, 상당한
+absence	부재, 결핍, 결석, 없음, 방심
+admiration	감탄, 칭찬, 칭찬의 대상
+attend a class	수업에 출석하다
+championship	선수권 대회
+client	고객, 변호 의뢰인
+cupboard	찬장
+depth	깊이
+descriptive	묘사의, 서술적인
+earthquake	지진, 사회적인 큰 변동
+energize	~에게 활력을 주다
+favorably	유리하게, 순조롭게
+flu	유행성 감기 (= influenza)
+gardening	원예, 정원 가꾸기
+handwriting	필체
+hospitality	환대
+majority	대다수, 전공하다
+miser	구두쇠
+oxygen	산소
+questionnaire	설문지
+significance	의미, 뜻 깊음, 중요성
+style	문체, 양식
+thunder	천둥
+visible	눈에 보이는
+visually	시각적으로
+welfare	복지, 후생, 복지사업, 복지의
+automatically	자동으로
+beast	짐승, 짐승 같은 인간, 고집쟁이
+disappointing	실망스러운
+equip	갖추다, 장비하다
+exhibit	전시하다, 보이다, 전시(물)
+gravitation	인력, 중력, 하강, 경향, 추세
+grocery store	식료품점
+homesick	향수병에 걸린
+intercourse	교제
+lade	싣다
+lunch break	점심 시간
+majesty	존엄
+mischief	장난, 손해
+narrow-minded	속 좁은, 옹졸한
+native	타고난, 태어난
+notable	주목할 만한, 유명한
+noted	저명한, 유명한
+outlook	전망, ~관, 조망, 경치, 사고방식
+passenger	승객, 여객, 통행인, 부담스런 존재
+priest	성직자, 사제
+proposal	제의, 신청
+recollect	회상하다
+rejoice	기뻐하다
+royalty	왕족, 저작권 사용료
+sane	제정신의, 온전한
+select	고르다, 선발하다, 선택하다, 가려낸, 까다로운
+shade	그늘, 그늘진 곳, 색조
+solar system	태양계
+tend	향하다, 도달하다, 경향이 있다, 공헌하다, 간호하다, 손질하다
+transform	바꾸다, 변형시키다
+unforgettable	잊을 수 없는, 언제까지나 기억에 남는
+wordy	장황한
+accidentally	우연히, 뜻밖에, 부수적으로
+adoration	예배, 애모, 동경
+alcoholic	알코올 중독자, 알코올의, 알코올에 담근, 주류
+astronaut	우주 비행사
+bone	뼈
+bravery	용기, 용맹, 훌륭함, 화려함
+bush	관목, 덤불
+clue	단서, 실마리
+congress	회의
+creature	창조물, 생물
+deceive	속이다, 현혹시키다, 잘못 생각하다, 사기치다
+heathen	이교도, 이방인(의)
+hostility	적개심, 적대행위, 교전상태, 반항, 저항
+infancy	유년기, 유아, 초기, 미성년
+jury	배심원
+miniature	축소지도, 축소모형
+parenting	육아, 양육
+priceless	매우 귀중한
+profitable	이익을 많이 내는, 유익한
+reliance	신뢰
+scatter	뿌리다
+summarize	요약하다
+surface	표면,떠오르다
+terribly	몹시, 지독하게
+uniqueness	유일함
+utilize	활용하다, 이용하다
+vogue	유행
+apologize	사과하다, 변명하다, 옹호하다
+appetite	식용, 욕망, 갈망, 기호, 좋아함
+argue	논하다, 설득하다, 주장하다
+attract	끌다, 끌어당기다, 매혹하다
+backseat	뒷좌석
+cliff	절벽, 낭떠러지
+co-operate	협력하다
+cough	기침,기침하다
+district	구역, 지역
+generosity	활수, 관대, 관대한 행위, 풍부함
+horror	공포
+Judaism	유대교, 유대주의
+man-made	인공의
+minority	소수, 소수 민족
+murder	살인,살해하다
+popularity	인기, 유행
+solution	해결, 용해
+splendid	화려한, 훌륭한
+atom	원자, 미분자, 극소량
+biography	전기, 일대기, 전기문학
+birth rate	출생률
+ceiling	천장
+chemistry	화학
+coworker	동료
+fianc?	약혼자 (남자)
+flour	밀가루
+hatch	(알이) 부화하다
+identity	동일함, 동일성, 주체성, 신원, (수학)항등식
+import	수입하다, 들여오다,수입, 수입품
+misleading	오해하게 만드는
+office hours	근무 시간, 영업 시간
+parliament	의회, 국회
+physician	(내과) 의사
+remedy	치료, 치료약, 배상, 고치다, 개선하다, 배상하다
+soul	영혼, 마음, 생기, 감정, 흑인의
+theme	주제, 제목
+tumult	소동
+wealth	재산, 부자, 다량, 자원
+advantage	유리, 이익, 우세, 장점, 이롭게 하다, 이익을 얻다
+architecture	건축, 건축술, 건축학
+astronomy	천문학, 천문학 논문
+beware	조심하다, 주의하다
+bleed	출혈하다
+citizenship	시민권, 국적
+debtor	채무자
+drawer	서랍, (-s) 장롱
+emergency	비상 사태, 위급
+feminine	여성의
+fortune	운, 행운, 재산
+frank	솔직한
+impulse	충격, 자극, 충격량, 욕구
+invest	투자하다, 부여하다
+irregular	불규칙한
+item	품목
+nationality	국적, 국민성
+outcome	결과, 성과
+preparedness	준비, 대비
+queer	별난, 기묘한
+religion	종교, 신앙, 귀중한 의무
+resign	사직하다, 단념하다
+supply	공급, 공급하다, 배달하다, 대리하다, 공급, 재고품
+throne	왕위, 왕좌
+timber	재목, 목재
+treachery	배신, 반역, 반역행위, 변절
+violence	격렬함, 폭력, 강간, 모독, (의미의)곡해, 불일치
+athletics	운동 경기, 체육실기
+awful	끔찍한, 무서운, 경외심을 일으키게 하는, 대한한, 몹시
+counselor	상담자, 상담 교사
+cowardice	겁, 소심, 비겁
+destiny	운명, 숙명, 하늘, 신의 뜻
+duty-free shop	면세점
+favorable	호의적인, 유리한, 순조로운, 승낙의
+innocent	순결한, 결백한
+meaningful	의미 있는, 중요한, 의미심장한
+overwork	과로하다,과로
+pause	멈춤, 중지, 멈추다
+regret	후회하다,유감, 후회
+science fiction	공상 과학 소설
+sensibility	감각, 감수성
+spacecraft	우주선
+sting	찌르다, (동물의) 침, 고통
+survey	둘러보다, 개관하다, 개관, 조사
+terrified	겁먹은, 깜짝 놀란
+upright	똑바른, 정직한
+wardrobe	옷장
+warfare	전쟁, 전투, 교전
+wicked	사악한
+akin	동족의, 동류의, 유사한
+announce	알리다, 발표하다, ~임을 나타내다
+barbarian	야만인, 야만의, 잔인한, 이방인, 교양없는 사람
+counsel	의논, 충고, 협의, 조언, 변호인, 권하다, 조언하다
+diplomat	외교관, 외교가, 권모술수에 능한 사람
+engineering	공학
+figure	수치, 인물, 모습
+geographical	지리상의, 지리적인
+geography	지리학
+globe	지구
+horrible	끔찍한, 지독한
+inhabit	~에 살다, ~에 거주하다, 서식하다, ~에 존재하다
+legislation	입법, 법률제정, 입법조치
+leisure	틈, 여가, 한가한
+passive	수동적인, 소극적인
+peak season	성수기
+pleasurable	유쾌한, 즐거운
+spicy	매운, 양념을 넣은
+telescope	망원경
+terrifying	무시무시한, 놀라운
+agriculture	농업, 농경, 농학
+appetizer	전채 요리, 식욕을 돋우는 것
+bossy	명령하기 좋아하는, 권위적인
+comet	혜성
+delight	즐거움, 즐겁게 하다
+distinct	명백한, 명확한
+drip	(물방울이) 뚝뚝 떨어지다
+encouragement	격려, 장려
+finance	재무, 재력, 자금, ~에 융자하다, 자금을 조달하다
+heal	치료하다, 화해시키다, 정화시키다, 고쳐지다
+imitate	따라하다, 모방하다
+imprison	~을 교도소에 넣다, 투옥하다
+installation	설치, 설비
+married	결혼한, 기혼의
+microscope	현미경
+motive	동기, 동기가 되다
+muscle	근육
+object to	~에 반대하다
+official	공식의, 공무상의, 공무원
+posterity	자손, 후손
+requirement	필요 조건, 자격
+slavery	노예 제도
+so far	지금까지
+souvenir	기념품
+symmetry	균형, 조화, 좌우대칭, 대칭성
+vehicle	차, 탈것, 수단, 매체
+wastewater	하수, 폐수
+aroma	향기, 기품, 풍취
+athletic	운동 경기의, 체육적, 운동가용의, 강건한
+bomb	폭탄, 폭격하다
+Christianity	기독교
+cope	맞서다, 대처하다, 극복하다, 덮이다
+crosswalk	횡단 보도
+disappointed	실망한, 낙담한
+engagement	약속, 약혼, 교전
+extent	넓이, 길이, 광활한 지역, 한계
+foundation	창설, 설립, 토대, 근거, 재단, 보강재료
+geometry	기하학, 결합구조
+intelligence	지능, 지성
+lightweight	경량의
+noble	귀족,고귀한
+peculiarity	특색, 버릇
+physics	물리학
+pottery	도자기, 도기류
+prophecy	예언
+resent	분개하다
+stability	안정, 안정성
+upset	뒤집어엎다, 망쳐버리다, 타도하다
+anniversary	기념일, 기념제, 기일, 매년의
+armed	무장한, 무기를 가진, 보호기관을 갖춘
+aware	알고 있는, 알아차린, 사정에 정통한
+awareness	자각, 인식, 각성상태
+basis	기초, 토대, 기본원리, 주성분
+boredom	지루함
+case-by-case	개별적인, 사항별의
+circumstance	상황, 환경, 생활형편, 부대상황, 요란함
+communist	공산주의의,공산주의자
+cruel	잔인한, 잔혹한
+emotion	감동, 감격, 감정
+eyewitness	목격자
+fate	운명, 비운, 인과, 죽음, 파멸, 운명짓다
+handicapped	신체 장애가 있는,(the ~) 신체 장애자
+harmless	무해한, 악의 없는
+isolated	고립된, 외딴
+labor	노동, 근로, 애씀, 고역, 일하다, 애쓰다, 산고를 겪다, 상세히 논하다
+limited	제한된, 부족한
+machinery	기계 장치, 기계류
+major in	~을 전공하다
+naked	나체의, 벌거벗은
+orphan	고아,고아로 만들다
+pasture	목장, 목초지
+pessimist	비관론자
+possession	소유, (-s) 소유물, 재산
+pulse	맥박
+royal	왕의, 왕위의, 위엄 있는
+technical	기술적인, 전문의
+tribe	종족
+accordance	일치, 조화, 부합, 수여
+advertise	광고하다, 선전하다, 공시하다, 짐짓 눈에 띄게 하다
+babysitter	아이 봐주는 사람, 보모
+breathe	숨쉬다, 호흡하다
+celebrated	유명한, 저명한
+cheer up	격려하다, (C-) 힘내, 이겨라!
+chivalry	기사도, 기사도 제도, (집합적)기사
+dispute	논쟁, 분쟁,논쟁하다
+fame	명성, 평판, 유명하게 하다
+frequently	자주
+fury	격노, 격분, 격정, 광포, 난폭한 사람
+gamble	도박을 하다
+greeting	인사, (-s) 인사말
+indicate	지시하다, 나타내다
+manual	(사용) 안내서, 지도서
+marketplace	시장, 경제계
+navigation	항해(술), 항공(술)
+pressure	압력, 압박, 기압, 압박감
+prosperity	번창, 행운, 번영의 상태
+righteous	바른, 공정한
+semester	학기
+smart	재치 있는, 영리한
+swear	맹세하다
+tasteful	고상한, 안목 있는
+accomplish	이루다, 성취하다, 완성하다, 만료하다, 주파하다
+biology	생물학, 생태학, 동식물, 생태
+dumb	벙어리의
+funeral	장례식, 장례행렬, 장례식의
+generous	많은, 후한, 관대한
+geology	지질학
+historian	역사가
+identical	동일한, 일치하는
+loyal	충성스러운, 성실한
+mankind	인류, 인간
+pant	헐떡이다, 갈망하다, 숨차다, 엔진의 배기음
+project	계획, 계획하다, 내던지다
+recruitment	신입사원 모집
+relate	관계시키다, ~와 친척이다, 부합하다, 말하다
+reverie	환상
+round trip	왕복 여행
+vow	맹세(하다)
+adolescence	청년기, 사춘기
+advertisement	광고, 선전, 공시, 통고
+canal	운하, 수로
+carpool	자동차를 합승하다
+communism	공산주의
+cruelty	잔인
+divorce	~와 이혼하다,이혼
+fantasy	공상, 변덕, 환상적인 작품, 상상하다, 공상에 잠기다
+feudal	봉건적인
+fierce	사나운, 맹렬한
+fright	놀람, 공포
+generalization	일반화, 개괄, 종합, 법칙화, 개념
+genius	천재, ~의 재주, 귀재, 천성, 수호신
+institution	제도, 협회
+laboratory	실험실, 연구소
+rural	시골의
+steady	한결같은, 확고한, 고정된, 불변의, 받침, 침착하게 하다
+sweetheart	연인, 애인
+theory	학설, 이론, 의견, 공론, 가설, 추측
+timely	때맞춘, 적시의
+addition	부가, 증축부분, 덧셈, 첨가반응
+amuse	재미나게 하다, 즐기다, 지루함을 달래다
+assist	돕다, 원조하다, 출석하다, 거들다, 보조장치
+barrier	울타리, 요새, 장애물, 장벽
+boss	우두머리, 사장, 상관, 상사
+cathedral	성당, 대성당
+commercial	상업의,광고 방송, 영리적인, 선전용의
+defiance	도전, 무시
+descend	내려오다
+existence	실재, 실존, 생존, 존재자, 생활방식
+foliage	(무성한) 나뭇잎
+incline	기울이다, 마음이 기울다, 경사
+interest rate	이자율, 금리
+justify	정당화하다, 변명하다
+length	길이
+overpopulation	인구 과잉
+penalty	벌금, 형벌
+policy	경영법, 방책, 수단, 정책, 보험증권
+possibility	가능성, 가망
+prey	먹이,먹이로 삼다
+ray	광선
+stroll	한가롭게 거닐다, 산책
+surround	둘러싸다
+
