@@ -18,6 +18,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.androidhuman.example.materialdrawer.R;
+import com.androidhuman.example.materialdrawer.awakeprocess.AwakeService;
 
 /**
  * 확장된 ListView의 Adapter이다. 주메뉴있고 Child 메뉴가 있는 View를 만들때 사용된다.
@@ -64,6 +65,7 @@ public class MyExpandableListAdapter extends BaseExpandableListAdapter {
         convertView.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
+                AwakeService.awakenStop(mContext);
                 Toast.makeText(mContext, children, Toast.LENGTH_SHORT).show();
             }
         });
