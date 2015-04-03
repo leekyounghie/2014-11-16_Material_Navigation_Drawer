@@ -18,6 +18,7 @@ import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
 import com.androidhuman.example.materialdrawer.awakeprocess.AwakeReceiver;
+import com.androidhuman.example.materialdrawer.awakeprocess.AwakeService;
 import com.androidhuman.example.materialdrawer.expandable.Group;
 import com.androidhuman.example.materialdrawer.expandable.MyExpandableListAdapter;
 import com.androidhuman.example.materialdrawer.main_fragment_folder.ForuDirection_Fragment;
@@ -64,6 +65,12 @@ public class MainActivity extends ActionBarActivity {
         Intent boradcastIntent = new Intent(AwakeReceiver.ACTION_START);
         sendBroadcast(boradcastIntent);
 
+    }
+
+    @Override
+    protected void onStop() {
+        super.onDestroy();
+        AwakeService.awakenStop(this);
     }
 
     private void showCustomTitleAndSubtitle() {
