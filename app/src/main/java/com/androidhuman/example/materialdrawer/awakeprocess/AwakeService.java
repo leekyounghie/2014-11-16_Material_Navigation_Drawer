@@ -36,6 +36,15 @@ public class AwakeService extends Service {
         context.startService(i);
     }
 
+    /**
+     * 서비스를 중지 시킬수도 있다
+     */
+    public static void awakenStop(Context context) {
+        Intent i = new Intent(context, AwakeService.class);
+        i.setAction(ACTION_START);
+        context.stopService(i);
+    }
+
     @Override
     public IBinder onBind(Intent intent) {
         return null;
@@ -86,13 +95,4 @@ public class AwakeService extends Service {
         /**아래 return(반환값)이 비정상 종료 Service 재실행시 선택옵션 Flag*/
         return START_NOT_STICKY;
     }
-
-    /**
-     * 서비스를 중지 시킬수도 있다
-     public static void awakenStop(Context context) {
-     Intent i = new Intent(context, AwakeService.class);
-     i.setAction(ACTION_START);
-     context.stopService(i);
-     }
-     */
 }
