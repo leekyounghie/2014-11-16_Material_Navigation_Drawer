@@ -16,10 +16,14 @@ import android.widget.TextView;
 
 import com.androidhuman.example.materialdrawer.R;
 
+import java.util.ArrayList;
+
 /**
  * Created by starnamu on 2015-03-31.
  */
 public class ForuDirection_Fragment extends Fragment {
+
+    ArrayList<View> arrayList = new ArrayList<View>();
 
     public ForuDirection_Fragment() {
     }
@@ -30,6 +34,7 @@ public class ForuDirection_Fragment extends Fragment {
 
         FourDirectionLayout FDL = new FourDirectionLayout(getActivity());
         FrameLayout foruDirectrionFrame = (FrameLayout) root.findViewById(R.id.foruDirectrionFrame);
+
         foruDirectrionFrame.addView(FDL);
         return root;
     }
@@ -42,6 +47,7 @@ public class ForuDirection_Fragment extends Fragment {
                 "top",
                 "bottom",
                 "view",
+
 
         };
         private final String[] TEXTS_2 = {
@@ -56,9 +62,7 @@ public class ForuDirection_Fragment extends Fragment {
         private final int[] COLORS = {
                 0xaa0000ff, 0xaa0000ff, 0xaaff0000, 0xaaff0000, 0xaa00ff00
         };
-        private final int[] PACKED_OFFSETS = { //페이지 이동 계산 수 2개씩 짤라서 (x,y)좌표값 나중에 모임때 설명예정
-                -1, 0, 1, 0, 0, -1, 0, 1, 0, 0
-        };
+        private final int PACKED_VERTICAL = TEXTS.length;
         String TAG = "FourDirectionLayout";
         private GestureDetector.OnGestureListener mListener = new GestureDetector.SimpleOnGestureListener() {
             public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX, float velocityY) {
@@ -132,25 +136,27 @@ public class ForuDirection_Fragment extends Fragment {
         public FourDirectionLayout(Context context) {
             super(context);
             for (int i = 0; i < TEXTS.length; i++) {
+
                 TextView tv = new TextView(context);
-                tv.setTag(i);
+                tv.setTag(i * 2);
                 tv.setTextSize(32);
                 tv.setTypeface(Typeface.DEFAULT_BOLD);
                 tv.setTextColor(0xffeeeeee);
                 tv.setText(TEXTS[i]);
                 tv.setBackgroundColor(COLORS[i]);
                 addView(tv);
+
+                TextView tv2 = new TextView(context);
+                tv2.setTag((i * 2) + 1);
+                tv2.setTextSize(32);
+                tv2.setTypeface(Typeface.DEFAULT_BOLD);
+                tv2.setTextColor(0xffeeeeee);
+                tv2.setText(TEXTS_2[i]);
+                tv2.setBackgroundColor(COLORS[i]);
+                addView(tv2);
+
             }
-            for (int i = 0; i < TEXTS_2.length; i++) {
-                TextView tv = new TextView(context);
-                tv.setTag(i);
-                tv.setTextSize(32);
-                tv.setTypeface(Typeface.DEFAULT_BOLD);
-                tv.setTextColor(0xffeeeeee);
-                tv.setText(TEXTS[i]);
-                tv.setBackgroundColor(COLORS[i]);
-                addView(tv);
-            }
+
             mDetector = new GestureDetector(context, mListener);
             mScroller = new Scroller(context);
         } // 각 페이지 지정
@@ -173,32 +179,40 @@ public class ForuDirection_Fragment extends Fragment {
         @Override
         protected void onLayout(boolean changed, int l, int t, int r, int b) {
             int cnt = getChildCount();
-            Log.d(TAG, "onLayout");
-            Log.d(TAG, "changed" + changed);
-            Log.d(TAG, "l :" + l);
-            Log.d(TAG, "t :" + t);
             Log.d(TAG, "r :" + r); // 화면 폭
             Log.d(TAG, "b :" + b); // 화면 높이
-            getChildAt(0).layout(0, 0, r, b);
-            getChildAt(1).layout(0, b, r, 2 * b);
-            getChildAt(2).layout(r, 0, 2 * r, b);
-            getChildAt(3).layout(r, b, 2 * r, 2 * b);
-            getChildAt(4).layout(2 * r, 0, 3 * r, b);
 
 
-        /*for (int i = 0; i < cnt ; i++) {
-            View child = getChildAt(i);// 배치 값
+            ArrayList<View> childarry = new ArrayList<View>();
+            ArrayList<View> childarry2 = new ArrayList<View>();
+            childarry.add(getChildAt(0));
+            childarry2.add(getChildAt(0));
+
+            childarry.get(0).layout(0,0,r,b);
+
+            //Vertical_Viewpager_onLayout(l, t, r, b);
+        }
+
+        public void Vertical_Viewpager_onLayout(int l, int t, int r, int b) {
+            int cnt = getChildCount();
+            Log.d(TAG, "r :" + r); // 화면 폭
+            Log.d(TAG, "b :" + b); // 화면 높이
+
+            for (int i = 0; i < cnt; i++) {
 
 
-            int idx = (Integer) child.getTag() << 1;
-            int xOffset = (r - l) * PACKED_OFFSETS[idx];
-            int yOffset = (b - t) * PACKED_OFFSETS[idx + 1];
-            child.layout(l + xOffset, t + yOffset, r + xOffset, b + yOffset);
+                View child = getChildAt(i);// 배치 값
 
-            Log.d(TAG, "view group의 각 페이지마다 좌표값 입력 (x,y - x,y) 시작점 끝점 : "+child);
-            Log.d(TAG, "child 각 각각 한개의 페이지 : "+child.getTag());
+                child.layout(l, i * b, r, (i + 1) * b);
 
-        }*/
+                for (int j = i; j < cnt; j = j + 2)
+                {
+
+                    //child.layout(r,0,2*r,b);
+                    // child.layout((j/2) * r, i * b, ((j/2 + 1) * r), (i+1) * b);
+
+                }
+            }
         }
     }
 }
