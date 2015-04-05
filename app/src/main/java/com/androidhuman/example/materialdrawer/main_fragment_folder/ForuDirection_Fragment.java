@@ -105,6 +105,7 @@ public class ForuDirection_Fragment extends Fragment {
 
 
                     mScroller.startScroll(sx, sy, distance, 0, DURATION); //값이라 가로
+                    
                 } else {//vertical viewpager
                     if (/*1번 수식*/sy == 0 && velocityY > 0 /*||2.번 수식 sy != 0 && velocityY < 0*/) {
 
@@ -124,6 +125,7 @@ public class ForuDirection_Fragment extends Fragment {
 //                DURATION = (int) (1000 * h / Math.abs(velocityY));
 
                     int distance = velocityY < 0 ? h : -h;
+
                     mScroller.startScroll(sx, sy, 0, distance, DURATION); //y값이라 세로
                 }
                 invalidate();
@@ -171,7 +173,7 @@ public class ForuDirection_Fragment extends Fragment {
 
         @Override
         public boolean onTouchEvent(MotionEvent event) {
-            //  Log.d(TAG, "onTouchEvent");
+            Log.d(TAG, "onTouchEvent");
             mDetector.onTouchEvent(event);
             return true;
         }
@@ -179,19 +181,18 @@ public class ForuDirection_Fragment extends Fragment {
         @Override
         protected void onLayout(boolean changed, int l, int t, int r, int b) {
             int cnt = getChildCount();
-            Log.d(TAG, "r :" + r); // 화면 폭
+            Log.d(TAG, "r :" + r); // 화면 1
             Log.d(TAG, "b :" + b); // 화면 높이
 
 
-            ArrayList<View> childarry = new ArrayList<View>();
-            ArrayList<View> childarry2 = new ArrayList<View>();
-            childarry.add(getChildAt(0));
-            childarry2.add(getChildAt(0));
 
-            childarry.get(0).layout(0,0,r,b);
 
-            //Vertical_Viewpager_onLayout(l, t, r, b);
+
+
+            Vertical_Viewpager_onLayout(l, t, r, b);
         }
+
+
 
         public void Vertical_Viewpager_onLayout(int l, int t, int r, int b) {
             int cnt = getChildCount();
@@ -209,7 +210,7 @@ public class ForuDirection_Fragment extends Fragment {
                 {
 
                     //child.layout(r,0,2*r,b);
-                    // child.layout((j/2) * r, i * b, ((j/2 + 1) * r), (i+1) * b);
+                    //child.layout((j/2) * r, i * b, ((j/2 + 1) * r), (i+1) * b);
 
                 }
             }
