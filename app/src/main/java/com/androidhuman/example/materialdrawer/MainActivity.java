@@ -1,10 +1,10 @@
 package com.androidhuman.example.materialdrawer;
 
-import android.app.FragmentManager;
-import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.os.Bundle;
+import android.support.v4.view.PagerAdapter;
+import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -21,7 +21,6 @@ import com.androidhuman.example.materialdrawer.awakeprocess.AwakeReceiver;
 import com.androidhuman.example.materialdrawer.awakeprocess.AwakeService;
 import com.androidhuman.example.materialdrawer.expandable.Group;
 import com.androidhuman.example.materialdrawer.expandable.MyExpandableListAdapter;
-import com.androidhuman.example.materialdrawer.main_fragment_folder.ForuDirection_Fragment;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -59,7 +58,8 @@ public class MainActivity extends ActionBarActivity {
         init();
         setSupportActionBar(toolbar);
         dlDrawer.setDrawerListener(dtToggle);
-        coustomFragmentManager();
+        //coustomFragmentManager();//4방향 ViewGroup
+        viewPagerManager();
         showCustomTitleAndSubtitle();
 
         Intent boradcastIntent = new Intent(AwakeReceiver.ACTION_START);
@@ -80,6 +80,7 @@ public class MainActivity extends ActionBarActivity {
         getSupportActionBar().setDisplayShowTitleEnabled(true);
     }
 
+/*
 
     public void coustomFragmentManager() {
         FragmentManager fm = getFragmentManager();
@@ -88,6 +89,14 @@ public class MainActivity extends ActionBarActivity {
         tr.add(R.id.container, fFragment);
         tr.commit();
     }
+*/
+   public void viewPagerManager(){
+       PagerAdapter pagerAdapter = new com.androidhuman.example.materialdrawer.main_fragment_folder.PagerAdapter(getSupportFragmentManager());
+       ViewPager mViewPager = (ViewPager)findViewById(R.id.main_viewpager);
+       mViewPager.setAdapter(pagerAdapter);
+
+
+   }
 
     public void init() {
         toolbar = (Toolbar) findViewById(R.id.toolbar);
