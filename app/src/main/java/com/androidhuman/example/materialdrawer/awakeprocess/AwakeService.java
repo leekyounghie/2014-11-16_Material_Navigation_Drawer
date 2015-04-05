@@ -19,7 +19,7 @@ import android.util.Log;
  * Background(화면뒷단)에서 동작하는 컴포넌트
  * Activity 종료후에도 동작
  *
- * 
+ *
  * Service 안드로이드 Application 컴포넌트 중에 하나이며 사용자와 상호작용 하지 않고,
  * Background(화면뒷단)에서 동작하는 컴포넌트
  * Activity 종료후에도 동작하기 위해서 만들어진 컴포넌트(MP3플레이어 기능)
