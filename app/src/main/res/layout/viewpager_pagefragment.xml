@@ -9,6 +9,17 @@
         android:layout_height="wrap_content"
         android:text="New Text"
         android:textSize="30dp"
-        android:id="@+id/main_viewpager_text"
+        android:id="@+id/main_viewpager_word"
         android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_marginTop="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:textSize="30dp"
+        android:id="@+id/main_viewpager_level"
+        android:layout_gravity="center_horizontal" />
+
+
+
 </LinearLayout>
