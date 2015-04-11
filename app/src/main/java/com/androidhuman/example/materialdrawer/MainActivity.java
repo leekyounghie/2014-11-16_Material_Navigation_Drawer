@@ -77,25 +77,10 @@ public class MainActivity extends ActionBarActivity {
         AwakeService.awakenStop(this);
     }
 
-    private void showCustomTitleAndSubtitle() {
-        getSupportActionBar().setCustomView(R.layout.toolbarstat);
-        getSupportActionBar().setTitle("Custom Title");
-        getSupportActionBar().setSubtitle("subtitle");
-        getSupportActionBar().setDisplayShowTitleEnabled(true);
-    }
 
-/*
 
-    public void coustomFragmentManager() {
-        FragmentManager fm = getFragmentManager();
-        FragmentTransaction tr = fm.beginTransaction();
-        ForuDirection_Fragment fFragment = new ForuDirection_Fragment();
-        tr.add(R.id.container, fFragment);
-        tr.commit();
-    }
-*/
    public void viewPagerManager(){
-       PagerAdapter pagerAdapter = new com.androidhuman.example.materialdrawer.main_fragment_folder.PagerAdapter(getSupportFragmentManager());
+       PagerAdapter pagerAdapter = new PagerAdapter(getSupportFragmentManager());
        ViewPager mViewPager = (ViewPager)findViewById(R.id.main_viewpager);
        mViewPager.setAdapter(pagerAdapter);
 
