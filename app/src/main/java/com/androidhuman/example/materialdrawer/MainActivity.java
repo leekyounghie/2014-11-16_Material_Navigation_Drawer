@@ -54,7 +54,7 @@ public class MainActivity extends ActionBarActivity {
     ExpandableListView listView;
 
     SparseArray<Group> groups = new SparseArray<Group>();
-
+//
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -64,7 +64,7 @@ public class MainActivity extends ActionBarActivity {
         dlDrawer.setDrawerListener(dtToggle);
         //coustomFragmentManager();//4방향 ViewGroup
         viewPagerManager();
-        showCustomTitleAndSubtitle();
+      //  showCustomTitleAndSubtitle();
 
         Intent boradcastIntent = new Intent(AwakeReceiver.ACTION_START);
         sendBroadcast(boradcastIntent);
